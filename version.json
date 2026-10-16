@@ -1,1 +1,1 @@
-{"versionCode":7,"versionName":"1.5.0","apkUrl":"https://github.com/eroltc/VidaKurtar/raw/main/VidaKurtar-latest.apk","notes":"• Sadece 3 net renk: mavi, kırmızı, sarı\n• Zincirli, bomba ve gökkuşağı vidalar\n• Süre yok: katmanlar ilerlemeyle gelir\n• 3D kalın metal plakalar, yeni altın profil çerçevesi\n• Işık süzülmesi, parıltılar, titreşimler"}
+{"versionCode":8,"versionName":"1.5.1","apkUrl":"https://raw.githubusercontent.com/eroltc/VidaKurtar/main/VidaKurtar-latest.apk","notes":"Performans: önbellekli sprite çizimi, 60fps hedefi, akıcı oynanış"}
