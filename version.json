@@ -1,7 +1,7 @@
 {
- "versionCode": 27,
- "versionName": "2.0.7",
+ "versionCode": 28,
+ "versionName": "2.0.8",
  "apkUrl": "https://raw.githubusercontent.com/eroltc/VidaKurtar/main/VidaKurtar-latest.apk",
- "sha256": "55e12de6eef8965377ad98d19055bbb4125bb9f027d91887bbecde62526d04b8",
- "notes": "Hayvanları Kurtar: yepyeni oyun! Sonsuz mod, macera modu, yeni sıralama, renkler ve müzikler; oyun içinden güncelleme"
+ "sha256": "140052ed7233b3566d89cecd00c179dd25aa008149b67427daf2fc5c98bb574d",
+ "notes": "Menü ve geçişler daha akıcı."
 }
