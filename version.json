@@ -1,7 +1,1 @@
-{
- "versionCode": 28,
- "versionName": "2.0.8",
- "apkUrl": "https://raw.githubusercontent.com/eroltc/VidaKurtar/main/VidaKurtar-latest.apk",
- "sha256": "140052ed7233b3566d89cecd00c179dd25aa008149b67427daf2fc5c98bb574d",
- "notes": "Menü ve geçişler daha akıcı."
-}
+{"versionCode": 29, "versionName": "2.0.9", "apkUrl": "https://raw.githubusercontent.com/eroltc/VidaKurtar/main/VidaKurtar-latest.apk", "sha256": "da62fab2ca48c5f45532586462e02a9296fdd8afd74167af148268f8b7f20d6e", "notes": "Sonsuz modda tüp dolmadan oyunun bitmesi düzeltildi. Görülen vidaların rengi artık değişmiyor. Başlangıç biraz daha zor."}
